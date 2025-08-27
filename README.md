@@ -104,4 +104,10 @@ I'm a data analyst passionate about turning raw data into meaningful, actionable
 **Nazrin Kocharli**
 
 ---
+📬 Contact
+For any questions, feedback, or collaboration opportunities:
+
+LinkedIn: www.linkedin.com/in/nazrin-kocharli4
+
+Email: nazrinkocharli2004@gmail.com
 
