@@ -6,7 +6,7 @@ The dashboard is **interactive, simple, and user-friendly**, enabling users to m
 
 
 
-## 📸 Dashboard Screenshot
+## 
 
 <p align="center">
   <img src="dashboard.png" width="800">
