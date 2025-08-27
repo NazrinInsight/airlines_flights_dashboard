@@ -97,7 +97,11 @@ git clone https://github.com/NazrinInsight/Airlines_Flights_Dashboard.git
 ---
 
 ## 
-👩‍💻 **Nazrin Kocharli**
+👩‍💻 About Me
+
+I'm a data analyst passionate about turning raw data into meaningful, actionable insights. I use tools like Power BI, SQL and Excel to tell compelling data stories.
+
+**Nazrin Kocharli**
 
 ---
 
