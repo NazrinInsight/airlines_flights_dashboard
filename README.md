@@ -1,87 +1,106 @@
-🛫 Airlines Flights Dashboard
-This project provides an Airlines Flights Analysis Dashboard designed to visualize key performance metrics, trends, and insights related to flight data.
-The dashboard is interactive, simple and user-friendly, enabling users to monitor and analyze airline performance effectively.
 
-📸 Dashboard Screenshot
+# 🛫 Airlines Flights Dashboard
+
+This project provides an **Airlines Flights Analysis Dashboard** designed to visualize key performance metrics, trends, and insights related to flight data.
+The dashboard is **interactive, simple, and user-friendly**, enabling users to monitor and analyze airline performance effectively.
+
+
+
+## 📸 Dashboard Screenshot
+
 <p align="center">
   <img src="dashboard.png" width="800">
-</p>
+</p>  
 
-✨ Features
 
-🔑 Key Metrics Overview
+## ✨ Features
+
+### 🔑 Key Metrics Overview
 
 Displays essential KPIs such as:
 
-Count of Airlines → 6
+* **Count of Airlines** → 6
+* **Count of Flights** → 300.15K
+* **Average Flight Duration** → 1.02K minutes
+* **Sum of Price** → 6.27bn
 
-Count of Flights → 300.15K
+---
 
-Average Flight Duration → 1.02K minutes
+### ⏰ Flights by Arrival Time
 
-Sum of Price → 6.27bn
+A pie chart showing flight distribution across different times of the day:
 
-⏰ Flights by Arrival Time
+* Night → 30.5%
+* Evening → 26.09%
+* Morning → 20.9%
+* Afternoon → 12.71%
+* Early Morning → 5.14%
+* Late Night → 4.66%
 
-A pie chart showing flights distribution across different times of the day:
+---
 
-Night (30.5%)
+### 💰 Average Price by Airline
 
-Evening (26.09%)
+* A line chart comparing airlines based on ticket prices
+* **Vistara** → Most expensive airline
+* **SpiceJet** → Cheapest airline
 
-Morning (20.9%)
+---
 
-Afternoon (12.71%)
+### 📊 Price & Flight Count by Airline
 
-Early Morning (5.14%)
+A bar chart presenting both average price and flight count across airlines:
 
-Late Night (4.66%)
+* Vistara
+* Air India
+* SpiceJet
+* GO\_FIRST
+* Indigo
+* AirAsia
 
-💰 Average Price by Airline
+---
 
-A line chart comparing airlines based on ticket prices.
+### 🌍 Price by Source & Destination Cities
 
-Vistara → Most expensive airline
+* A heatmap table showing ticket prices across source cities:
+  **Delhi, Hyderabad, Bangalore, Mumbai, Kolkata, Chennai**
+* Provides insights into which city pairs have the **highest and lowest ticket prices**
 
-SpiceJet → Cheapest airline
+---
 
-📊 Price & Flight Count by Airline
+## 🛠 Technologies Used
 
-A bar chart presenting both average price and flight count across airlines (Vistara, Air India, SpiceJet, GO_FIRST, Indigo, AirAsia).
+* **Microsoft Power BI** → For building the dashboard and visualizations
+* **DAX (Data Analysis Expressions)** → For calculated metrics (average, sum, KPIs)
+* **Excel/CSV Dataset** → Source data for flights and airlines
 
-🌍 Price by Source & Destination Cities
+---
 
-A heatmap table showing ticket prices across different source cities (Delhi, Hyderabad, Bangalore, Mumbai, Kolkata, Chennai).
+## ⚙️ Installation and Usage
 
-Provides insights into which city pairs have the highest and lowest prices.
+### ✅ Prerequisites
 
-🛠 Technologies Used
+* Install **Power BI Desktop**
+* Access to the **flights dataset**
 
-Microsoft Power BI → For building the dashboard and visualizations
+### 📥 Steps
 
-DAX (Data Analysis Expressions) → For calculated metrics (average, sum, KPIs)
-
-Excel/CSV Dataset → Source data for flights and airlines
-
-⚙️ Installation and Usage
-
-✅ Prerequisites
-
-Install Power BI Desktop
-
-Access to the flights dataset
-
-📥 Steps
+```bash
 # Clone the repository
-
 git clone https://github.com/NazrinInsight/Airlines_Flights_Dashboard.git
+```
 
-Open the .pbix file in Power BI Desktop
+* Open the `.pbix` file in **Power BI Desktop**
+* Load the dataset if required
+* Explore and interact with the dashboard 🚀
 
-Load the dataset if required
+---
 
-Explore and interact with the dashboard 🚀
+## 📌 Nazrin Kocharli
 
-📌 Author
+👩‍💻 **Nazrin Kocharli**
 
-👩‍💻 Created by Your Name
+---
+
+İstəsən mən sənə bunu birbaşa **README.md** faylı formatında verim ki, GitHub-a yerləşdirəndə hazır olsun. İstəyirsən elə edim?
+
