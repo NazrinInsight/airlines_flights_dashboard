@@ -96,8 +96,7 @@ git clone https://github.com/NazrinInsight/Airlines_Flights_Dashboard.git
 
 ---
 
-## 📌 Nazrin Kocharli
-
+## 
 👩‍💻 **Nazrin Kocharli**
 
 ---
