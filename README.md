@@ -1,6 +1,7 @@
 🛫 Airlines Flights Dashboard
 This project provides an Airlines Flights Analysis Dashboard designed to visualize key performance metrics, trends, and insights related to flight data.
 The dashboard is interactive, simple and user-friendly, enabling users to monitor and analyze airline performance effectively.
+
 📸 Dashboard Screenshot
 <p align="center">
   <img src="dashboard.png" width="800">
