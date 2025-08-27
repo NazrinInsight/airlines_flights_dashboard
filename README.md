@@ -101,5 +101,3 @@ git clone https://github.com/NazrinInsight/Airlines_Flights_Dashboard.git
 
 ---
 
-İstəsən mən sənə bunu birbaşa **README.md** faylı formatında verim ki, GitHub-a yerləşdirəndə hazır olsun. İstəyirsən elə edim?
-
